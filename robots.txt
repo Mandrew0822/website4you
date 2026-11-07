@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# SEO: replace https://website4you.example with your live domain
+Sitemap: https://website4you.example/sitemap.xml
